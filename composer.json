@@ -1,20 +1,19 @@
 {
     "name": "ankush/iseven",
-    "description": "this package accept integer value and check it is even or not",
+    "description": "A utility to check if a number is even.",
+    "version": "1.0.0",
     "type": "library",
     "license": "MIT",
-    "autoload": {
-        "psr-4": {
-            "Ankush\\Iseven\\": "src/"
-        }
-    },
     "authors": [
         {
             "name": "Ankush Tyagi",
             "email": "getankushtyagi@gmail.com"
         }
     ],
-    "require-dev": {
-        "phpunit/phpunit": "^9.6"
-    }
+    "autoload": {
+        "psr-4": {
+            "Ankush\\Iseven\\": "src/"
+        }
+    },
+    "require": {}
 }
