@@ -1,0 +1,1 @@
+{"version":1,"defects":{"HelperTest::testIsEvenReturnsEvenMessage":4,"HelperTest::testIsEvenReturnsOddMessage":4,"HelperTest::testIsEvenHandlesNonInteger":4,"HelperTest::testIsEvenHandlesNull":4},"times":{"HelperTest::testIsEvenReturnsEvenMessage":0.003,"HelperTest::testIsEvenReturnsOddMessage":0,"HelperTest::testIsEvenHandlesNonInteger":0,"HelperTest::testIsEvenHandlesNull":0}}

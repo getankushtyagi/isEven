@@ -12,8 +12,10 @@
     ],
     "autoload": {
         "psr-4": {
-            "Ankush\\Iseven\\": "src/"
+            "Even\\": "src/"
         }
     },
-    "require": {}
+    "require-dev": {
+        "phpunit/phpunit": "^9.6"
+    }
 }
